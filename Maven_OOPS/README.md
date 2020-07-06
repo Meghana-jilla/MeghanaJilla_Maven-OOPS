@@ -1,4 +1,4 @@
-# rahulghosh-Maven_OOPS
+# Maven_OOPS
 EPAM Task on Maven and OOPS
 
 New Year's gift!<br />
